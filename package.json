@@ -1,0 +1,16 @@
+{
+  "name": "minimal-elm",
+  "version": "1.0.0",
+  "repository": "https://github.com/timojaask/minimal-elm.git",
+  "author": "Timo Jaaskelainen <timojaask@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "elm-webpack-loader": "^4.5.0",
+    "file-loader": "^1.1.11",
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0"
+  }
+}
